@@ -1,0 +1,65 @@
+.image {
+    width: 400px;
+    height: 280px;
+    margin-left: 400px;
+}
+
+.bg-container {
+    background-color:#f5f7fa;
+    width: 50vw;
+    text-align: center;
+    margin-left: 300px;
+}
+
+.number {
+    color: #323f4b;
+    background-color: #cbd2d9;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+    border-style: solid;
+    border-width: 8px;
+    border-color: #e4e7eb;
+    border-radius: 12px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+.operator {
+    color: #c4c4c4;
+    font-family: "Roboto";
+    font-size: 40px;
+}
+
+.user-input {
+    text-align: center;
+    color: #323f4b;
+    background-color: #cbd2d9;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+    width: 142px;
+    height: 60px;
+    border-style: solid;
+    border-width: 8px;
+    border-color: #e4e7eb;
+    border-radius: 12px;
+    margin: 20px;
+}
+
+.game-result {
+    color: #ffffff;
+    background-color: #f5f7fa;
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: 500;
+}
+.btn{
+    background-color: blue;
+    border-color: red;
+    color: white;
+    margin-right: 30px;
+}
+.mr{
+    height: 30px;
+}
